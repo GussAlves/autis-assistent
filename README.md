@@ -27,5 +27,3 @@ Autis utiliza:
 
 * [Watson - Assist] - IA IBM para criação de ChatBot
 * [JavaScript] - Watson utiliza Json para guardar perguntas e respostas
-
-**Free Software, Hell Yeah!**
